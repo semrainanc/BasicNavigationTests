@@ -1,7 +1,7 @@
 package com.cbt.tests;
 
-import com.cbt.utilities.BrowserFactory;
 import org.openqa.selenium.WebDriver;
+import com.cbt.utilities.BrowserFactory;
 
 public class NavigationTestsChrome{
 
